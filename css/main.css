@@ -1,7 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background:url("../bird-gut-smaller-file.png") repeat;
 }
+
 nav ul, footer ul {
     font-family:'Optima', 'sans-serif'
     padding: 0px;
